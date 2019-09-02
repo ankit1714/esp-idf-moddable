@@ -1,3 +1,6 @@
 [submodule "moddable"]
 	path = moddable
 	url = https://github.com/ankit1714/moddable.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/ankit1714/esp-idf.git
